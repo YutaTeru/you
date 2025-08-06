@@ -1,0 +1,7 @@
+
+{
+  "name": "Eiken-Style English Quiz",
+  "description": "An interactive quiz application that tests your English vocabulary with Eiken-style questions, featuring dynamically generated images for each question powered by the Gemini API.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
